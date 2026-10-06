@@ -1,0 +1,136 @@
+No165 sound_v10 効果音の出典 / 2026-10-06
+
+Freesound個別音ページの現在のCC0表示を取得時に確認。
+https://creativecommons.org/publicdomain/zero/1.0/
+公開HQ MP3を使用し、区間編集・音程を保つ速度調整・EQ・音量調整を行っています。原本WAVではありません。
+同じ元音源は全編で各1回。取得ファイルのSHA-256は制作ソース内に記録。
+納品には声と編集済みSEを混合した音声・動画・HTMLを保存。未加工SE集は同梱しません。
+
+SkySpeira / achievement-sparkle
+https://freesound.org/people/SkySpeira/sounds/715067/
+
+Kinoton / Deep Whoosh #6
+https://freesound.org/people/Kinoton/sounds/558826/
+
+garionek / Backwards Whoosh
+https://freesound.org/people/garionek/sounds/446010/
+
+supaluci / Page Turn, Big Book
+https://freesound.org/people/supaluci/sounds/726518/
+
+ristooooo1 / DSLR Shutter fast 006.wav
+https://freesound.org/people/ristooooo1/sounds/539136/
+
+AudioPapkin / Riser Hit sfx 052
+https://freesound.org/people/AudioPapkin/sounds/711071/
+
+Kinoton / Deep Whoosh #2
+https://freesound.org/people/Kinoton/sounds/351259/
+
+Wakerone / Cinematic Glitch Transition SFX.mp3
+https://freesound.org/people/Wakerone/sounds/513131/
+
+WildBurne / Risers and dopplers_33.wav
+https://freesound.org/people/WildBurne/sounds/555671/
+
+AudioPapkin / Sci-Fi Transition.wav
+https://freesound.org/people/AudioPapkin/sounds/645485/
+
+newagesoup / Ethereal Woosh.wav
+https://freesound.org/people/newagesoup/sounds/462089/
+
+AudioPapkin / Riser Hit sfx 016.wav
+https://freesound.org/people/AudioPapkin/sounds/511862/
+
+ParadoxTheSock / Fast swipe.wav
+https://freesound.org/people/ParadoxTheSock/sounds/412595/
+
+Bachsambora / Sci-Fi Gateway
+https://freesound.org/people/Bachsambora/sounds/752034/
+
+Dasgoat / Shimmer glass
+https://freesound.org/people/Dasgoat/sounds/361704/
+
+brktkrgll / Cyberpunk Glitch Hologram Transition Whoosh
+https://freesound.org/people/brktkrgll/sounds/856168/
+
+Eternitys / Interface1.wav
+https://freesound.org/people/Eternitys/sounds/141121/
+
+Hope-Sounds / Liquid bottle shaking short.mp3
+https://freesound.org/people/Hope-Sounds/sounds/502667/
+
+tomwilkinson / Liquid wobble
+https://freesound.org/people/tomwilkinson/sounds/540787/
+
+newagesoup / Long Ethereal Woosh.wav
+https://freesound.org/people/newagesoup/sounds/462879/
+
+MasterEngine / Swoosh FX Medium.wav
+https://freesound.org/people/MasterEngine/sounds/418007/
+
+JW_Audio / UIMisc_Digital, Interface, Message, Selection, Confirmation, Alert_33_JW Audio_User Interface
+https://freesound.org/people/JW_Audio/sounds/828726/
+
+Yarmonics / BB_1 quick metallic swipe.wav
+https://freesound.org/people/Yarmonics/sounds/441849/
+
+soundandmelodies / SFX-Notification3, Interface, GUI
+https://freesound.org/people/soundandmelodies/sounds/776183/
+
+AardsReal / Page Turn Free
+https://freesound.org/people/AardsReal/sounds/842183/
+
+mateusboga / Page Turn 3
+https://freesound.org/people/mateusboga/sounds/614083/
+
+Rookster / Paper_Flip_01
+https://freesound.org/people/Rookster/sounds/615337/
+
+Kingofgamers_cz / Paper slide
+https://freesound.org/people/Kingofgamers_cz/sounds/352914/
+
+Frank1100 / fh_Paper_Swipe_Surface1_Long_01.wav
+https://freesound.org/people/Frank1100/sounds/147284/
+
+Frank1100 / fh_Paper_Swipe_Surface2_Mid_01.wav
+https://freesound.org/people/Frank1100/sounds/147286/
+
+nomiqbomi / Sparkle 1
+https://freesound.org/people/nomiqbomi/sounds/578800/
+
+Jofae / Sci Fi Interface
+https://freesound.org/people/Jofae/sounds/367997/
+
+adharca / sci-fi swoosh.ogg
+https://freesound.org/people/adharca/sounds/275521/
+
+adh.dreaming / Shimmer
+https://freesound.org/people/adh.dreaming/sounds/632344/
+
+syntheffects / Riser sound effect short.wav
+https://freesound.org/people/syntheffects/sounds/685256/
+
+Flem0527 / Singular Page Turn.wav
+https://freesound.org/people/Flem0527/sounds/630019/
+
+tonymadethatt / Soft Interface 01 Tap
+https://freesound.org/people/tonymadethatt/sounds/817506/
+
+GameAudio / Space Swoosh - brighter
+https://freesound.org/people/GameAudio/sounds/220191/
+
+SkySpeira / Mysterious Sparkle Flourish
+https://freesound.org/people/SkySpeira/sounds/844398/
+
+Kinoton / Deep Whoosh #5
+https://freesound.org/people/Kinoton/sounds/558827/
+
+Electroviolence / Wet Transition 2
+https://freesound.org/people/Electroviolence/sounds/234539/
+
+bevibeldesign / Quick Zoom / Slow Down
+https://freesound.org/people/bevibeldesign/sounds/366092/
+
+Kinotonの作者説明 https://freesound.org/people/Kinoton/
+参考動画の音声は納品へ流用していません。
